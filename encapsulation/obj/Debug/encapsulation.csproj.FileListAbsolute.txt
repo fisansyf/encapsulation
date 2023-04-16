@@ -1,0 +1,8 @@
+G:\C#\encapsulation\encapsulation\bin\Debug\encapsulation.exe.config
+G:\C#\encapsulation\encapsulation\bin\Debug\encapsulation.exe
+G:\C#\encapsulation\encapsulation\bin\Debug\encapsulation.pdb
+G:\C#\encapsulation\encapsulation\obj\Debug\encapsulation.csproj.AssemblyReference.cache
+G:\C#\encapsulation\encapsulation\obj\Debug\encapsulation.csproj.SuggestedBindingRedirects.cache
+G:\C#\encapsulation\encapsulation\obj\Debug\encapsulation.csproj.CoreCompileInputs.cache
+G:\C#\encapsulation\encapsulation\obj\Debug\encapsulation.exe
+G:\C#\encapsulation\encapsulation\obj\Debug\encapsulation.pdb
